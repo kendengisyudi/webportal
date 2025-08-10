@@ -64,7 +64,7 @@ npm install pm2 -g
 git clone https://github.com/kendengisyudi/webportal.git
 ```
 ```bash
-cd gembok
+cd webportal
 ```
 ### 2. Install Dependencies
 ```bash
