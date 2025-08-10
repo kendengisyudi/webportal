@@ -80,7 +80,7 @@ pm2 save
 pm2 startup systemd -u arknetds --hp /home/arknetds
 ```
 ```bash
-ppm2 startup systemd
+pm2 startup systemd
 ```
 ```bash
 pm2 save
