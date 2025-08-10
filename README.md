@@ -8,12 +8,6 @@
 <img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/d98b8c95-debe-4790-99d9-47f9363a066d" />
 <img width="1366" height="728" alt="Image" src="https://github.com/user-attachments/assets/3951eeae-fa16-4c06-b3ed-cf1c0c2fc968" />
 
-Rekening Donasi Untuk Pembangunan Masjid
-# 4206 0101 2214 534 BRI an DKM BAITUR ROHMAN <br>
-Info https://wa.me/628194215703 ALIJAYA<br>
-link group tele : https://t.me/alijayaNetAcs <br>
-link chanell tele : https://t.me/alijayaNetwork<br>
-
 ## Deskripsi Aplikasi
 
 Gembok (GenieAcs Mikrotik dan WA Gateway adalah sistem manajemen ISP terintegrasi yang menggabungkan WhatsApp Gateway dengan portal admin web untuk mengelola:
@@ -78,6 +72,20 @@ npm start
 ```bash
 pm2 start app.js
 ```
+### 5. Setting Jalan Otomatis
+```bash
+pm2 save
+```
+```bash
+pm2 startup systemd -u arknetds --hp /home/arknetds
+```
+```bash
+ppm2 startup systemd
+```
+```bash
+pm2 save
+```
+
 
 ### 5. Konfigurasi Settings
 localhost:3001/admin/login // ipserver:3001/admin/login
