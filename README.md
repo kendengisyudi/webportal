@@ -61,7 +61,7 @@ apt install git curl -y
 npm install pm2 -g
 ```
 ```bash
-git clone https://github.com/alijayanet/gembok](https://github.com/kendengisyudi/webportal.git
+git clone https://github.com/kendengisyudi/webportal.git
 ```
 ```bash
 cd gembok
