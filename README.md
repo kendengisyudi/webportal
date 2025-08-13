@@ -75,16 +75,10 @@ pm2 start app.js
 ### 5. Setting Jalan Otomatis
 ```bash
 pm2 save
-```
-```bash
 pm2 startup systemd -u arknetds --hp /home/arknetds
-```
-```bash
 pm2 startup systemd
-```
-```bash
 pm2 save
-```
+```bash
 
 
 ### 5. Konfigurasi Settings
