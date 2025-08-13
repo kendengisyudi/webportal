@@ -78,7 +78,7 @@ pm2 save
 pm2 startup systemd -u arknetds --hp /home/arknetds
 pm2 startup systemd
 pm2 save
-```bash
+```
 
 
 ### 5. Konfigurasi Settings
