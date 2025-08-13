@@ -53,18 +53,13 @@ Gembok (GenieAcs Mikrotik dan WA Gateway adalah sistem manajemen ISP terintegras
 ```bash
 apt install git curl -y
 npm install pm2 -g
-```
-```bash
 git clone https://github.com/kendengisyudi/webportal.git
-```
-```bash
 cd webportal
-```
-### 2. Install Dependencies
-```bash
 npm install
 ```
+
 ### 3. jalankan aplikasi mode Depelover
+Siapkan HP untuk scan QR Whatsapp BOT
 ```bash
 npm start
 ```
