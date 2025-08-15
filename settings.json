@@ -22,7 +22,7 @@
   "rx_power_warning_interval": "3600000",
   "company_header": "ARKNET DIGITAL",
   "footer_info": "Info Hubungi : 081259872053",
-  "customerPortalOtp": "false",
+  "customerPortalOtp": "true",
   "otp_length": "4",
   "otp_expiry_minutes": "5",
   "server_host": "localhost",
